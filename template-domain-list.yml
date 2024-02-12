@@ -1,0 +1,3 @@
+domain:
+  name: "<enter Domain name here>"
+  price: <enter price in EuroCents as integer>
