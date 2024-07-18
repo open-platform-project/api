@@ -26,3 +26,7 @@ def logout():  # TODO (LOGOUT)
 @app.route('/auth/check', methods=['GET'])
 def check_user_information_self():  # TODO (GET LOGGED IN USER INFORMATION)
     return 'Not yet implemented'
+
+
+if __name__ == '__main__':
+   app.run(port=80)
